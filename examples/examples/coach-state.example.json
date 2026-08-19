@@ -1,7 +1,0 @@
-{
-  "athlete": { "displayName": "Example athlete", "timezone": "America/Los_Angeles" },
-  "goals": { "primary": "Build strength and muscle sustainably", "sessionMinutes": { "minimum": 45, "maximum": 60 }, "requiredSessionsPerWeek": 4 },
-  "safetyRules": { "progressionRequiresSameDayReadiness": true, "avoidFailureWhenSymptomatic": true, "maxWeeklyHardSetChangePerMuscle": 2 },
-  "equipment": ["cable stack", "free weights", "machines"],
-  "providers": { "workout": { "kind": "replace-with-your-workout-provider" }, "healthMetrics": { "kind": "replace-with-your-health-provider" } }
-}
